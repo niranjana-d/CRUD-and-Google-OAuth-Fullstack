@@ -2,6 +2,8 @@
 
 > A production-quality full-stack CRUD web application integrating **JSONPlaceholder** as the external REST API, backed by **PostgreSQL** and **Prisma ORM**, with **Email/Password & Google Sign-In (OAuth 2.0 / OpenID Connect)**, **Role-Based Access Control (RBAC)**, and **Granular Post Ownership Authorization**.
 
+> 📖 **Deep Dive Documentation**: For an exhaustive, component-by-component architectural analysis of every single library, framework, security mechanism, and design pattern used in this system, see [TECHNICAL_DOCUMENTATION.md](file:///d:/Niranjana/fullstack/TECHNICAL_DOCUMENTATION.md).
+
 ---
 
 ## Table of Contents
